@@ -1,7 +1,8 @@
 # instagram-followers
-List Followers on Instagram. 
+List Followers on Instagram.
 Implemented in Python using the Selenium module.
-    <a href="https://github.com/instagram-followers/LICENSE">
+ 
+ <a href="https://github.com/instagram-followers/LICENSE">
       <img src="https://img.shields.io/badge/license-MIT-red.svg" />
     </a>
     <a href="https://github.com/SeleniumHQ/selenium">
