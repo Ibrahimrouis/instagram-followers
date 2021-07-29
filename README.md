@@ -1,7 +1,6 @@
 # instagram-followers
 List Followers on Instagram. 
 Implemented in Python using the Selenium module.
- <p align="center">
     <a href="https://github.com/instagram-followers/LICENSE">
       <img src="https://img.shields.io/badge/license-MIT-red.svg" />
     </a>
@@ -11,5 +10,3 @@ Implemented in Python using the Selenium module.
     <a href="https://www.python.org/">
     	<img src="https://img.shields.io/badge/built%20with-Python3-yellow.svg" />
     </a>
-
-  </p>
